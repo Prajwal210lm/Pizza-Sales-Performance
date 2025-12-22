@@ -1,5 +1,3 @@
-
-
 # Pizza Sales Performance Analysis
 
 **SQL + Excel Dashboard Project**
@@ -7,6 +5,7 @@
 ## Overview
 
 This project focuses on analyzing **pizza sales performance** using **SQL for data querying and transformation** and **Excel for dashboarding and visualization**. The objective is to derive **actionable business insights** around revenue, demand patterns, customer preferences, and product performance.
+<img width="1579" height="888" alt="image" src="https://github.com/user-attachments/assets/77aef988-40bd-4c92-9e2f-d894eeece3e9" />
 
 The **Excel dashboard is a direct reflection of the SQL analysis**, ensuring consistency across tools. The underlying data used in Excel and SQL is the same.
 
